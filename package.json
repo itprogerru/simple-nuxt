@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "simple-nuxt",
   "version": "1.0.0",
   "description": "exemple",
   "author": "slava",
@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0"
   },
